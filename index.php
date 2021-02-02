@@ -17,7 +17,7 @@
         </div>
     </main>
     <footer class="rodape">
-        COD3R & ALUNOS © <?= date('Y'); ?>
+        Eduardo Monegate
     </footer>
 </body>
 </html>
